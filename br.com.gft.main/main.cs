@@ -44,9 +44,18 @@ namespace Prova01.br.com.gft.main
                 {
                     Pessoa.RemoveAt(i);
                 }
+
              
             }
             Console.WriteLine(Pessoa.Count + " Pessoas menores de 18 anos foram removidas da lista");
+            Console.WriteLine("=======================================");
+            for (int i = 0; i < Pessoa.Count; i++)
+            {
+                if (Pessoa[i].nome == "Jessica")
+                {
+                    Console.WriteLine("Jessica existe na lista, e sua idade é de: " + Pessoa[i].idade + " Anos");
+                }
+            }
             Console.ReadLine();
         }
 
