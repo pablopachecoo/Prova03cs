@@ -1,0 +1,11 @@
+C:\Users\POPF\source\repos\Prova01\Prova01\obj\Debug\netcoreapp3.1\Prova01.csprojAssemblyReference.cache
+C:\Users\POPF\source\repos\Prova01\Prova01\obj\Debug\netcoreapp3.1\Prova01.AssemblyInfoInputs.cache
+C:\Users\POPF\source\repos\Prova01\Prova01\obj\Debug\netcoreapp3.1\Prova01.AssemblyInfo.cs
+C:\Users\POPF\source\repos\Prova01\Prova01\bin\Debug\netcoreapp3.1\Prova01.exe
+C:\Users\POPF\source\repos\Prova01\Prova01\bin\Debug\netcoreapp3.1\Prova01.deps.json
+C:\Users\POPF\source\repos\Prova01\Prova01\bin\Debug\netcoreapp3.1\Prova01.runtimeconfig.json
+C:\Users\POPF\source\repos\Prova01\Prova01\bin\Debug\netcoreapp3.1\Prova01.runtimeconfig.dev.json
+C:\Users\POPF\source\repos\Prova01\Prova01\bin\Debug\netcoreapp3.1\Prova01.dll
+C:\Users\POPF\source\repos\Prova01\Prova01\bin\Debug\netcoreapp3.1\Prova01.pdb
+C:\Users\POPF\source\repos\Prova01\Prova01\obj\Debug\netcoreapp3.1\Prova01.dll
+C:\Users\POPF\source\repos\Prova01\Prova01\obj\Debug\netcoreapp3.1\Prova01.pdb
