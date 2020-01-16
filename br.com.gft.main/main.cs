@@ -34,7 +34,19 @@ namespace Prova01.br.com.gft.main
                 }
                                                                       
             }
-            Console.WriteLine("A Idade da pessoa mais velha é de: " + maiorId + " Anos");
+            Console.WriteLine("##LISTA DE PESSOAS##" + "\n" + joao.nome + " " + joao.idade);
+            Console.WriteLine(leandro.nome + " " + leandro.idade + " Anos");
+            Console.WriteLine(paulo.nome + " " + paulo.idade + " Anos");
+            Console.WriteLine(jessica.nome + " " + jessica.idade + " Anos" + "\n" + "_____________________________________________________");
+            for (int i = 0; i < Pessoa.Count; i++)
+            {
+                if (Pessoa[i].idade < 18)
+                {
+                    Pessoa.RemoveAt(i);
+                }
+             
+            }
+            Console.WriteLine(Pessoa.Count + " Pessoas menores de 18 anos foram removidas da lista");
             Console.ReadLine();
         }
 
